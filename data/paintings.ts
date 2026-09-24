@@ -122,18 +122,20 @@ export const paintings: Painting[] = [
     src: "/fotos/foto-17.webp",
     orientation: "square",
   },
-   {
-    id: "lapis",
-    title: "esboço",
-    src: "/fotos/foto-19.webp",
-    orientation: "square",
-  },
+   
    {
     id: "lapis",
     title: "esboço",
     src: "/fotos/foto-20.webp",
     orientation: "square",
   },
+   {
+    id: "lapis",
+    title: "esboço",
+    src: "/fotos/foto-19.webp",
+    orientation: "portrait",
+  },
+
 
 
 ];
