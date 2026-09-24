@@ -59,13 +59,13 @@ export const paintings: Painting[] = [
   {
     id: "ninfeias",
     title: "Ninfeias",
-    src: "/fotos/foto-08.webp",
+    src: "/fotos/foto-09.webp",
     orientation: "square",
   },
   {
     id: "composicao-viii",
     title: "Composição VIII",
-    src: "/fotos/foto-09.webp",
+    src: "/fotos/foto-08.webp",
     orientation: "landscape",
   },
   {
@@ -81,10 +81,10 @@ export const paintings: Painting[] = [
     orientation: "landscape",
   },
   {
-    id: "seios",
-    title: "Seios",
+    id: "desenhos",
+    title: "esboços",
     src: "/fotos/foto-12.webp",
-    orientation: "landscape",
+    orientation: "square",
   },
   {
     id: "moleton",
@@ -92,5 +92,48 @@ export const paintings: Painting[] = [
     src: "/fotos/foto-13.webp",
     orientation: "square",
   },
+  {
+    id: "lapis",
+    title: "esboço",
+    src: "/fotos/foto-14.webp",
+    orientation: "square",
+  },
+   {
+    id: "lapis",
+    title: "esboço",
+    src: "/fotos/foto-15.webp",
+    orientation: "landscape",
+  },
+   {
+    id: "lapis",
+    title: "esboço",
+    src: "/fotos/foto-16.webp",
+    orientation: "square",
+  },
+   {
+    id: "lapis",
+    title: "esboço",
+    src: "/fotos/foto-18.webp",
+    orientation: "square",
+  },
+   {
+    id: "lapis",
+    title: "esboço",
+    src: "/fotos/foto-17.webp",
+    orientation: "square",
+  },
+   {
+    id: "lapis",
+    title: "esboço",
+    src: "/fotos/foto-19.webp",
+    orientation: "square",
+  },
+   {
+    id: "lapis",
+    title: "esboço",
+    src: "/fotos/foto-20.webp",
+    orientation: "square",
+  },
+
 
 ];
